@@ -1,5 +1,7 @@
 # Mini CRM: contatos, funil arrastável, histórico e tarefas
 
+**Demo no ar:** <https://demo-mini-crm.vercel.app> (o login de demonstração aparece na tela)
+
 > ⚠️ **Projeto de demonstração.** A clínica "Sorriso Claro Odontologia", as pessoas, os telefones e as conversas são **fictícios**.
 > Todas as páginas mostram uma faixa avisando disso e não são indexadas pelo Google.
 > Não digite dados reais na demo.
