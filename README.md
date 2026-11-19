@@ -195,6 +195,10 @@ supabase/schema.sql          tabelas do Supabase
 tests/                       testes com Vitest
 ```
 
+## Como foi feito
+
+Desenvolvido com o Claude Code (IA) sob minha direção: defini o escopo e as regras de negócio, aprovei as decisões técnicas e revisei e testei o resultado. É a mesma forma como trabalho nos projetos de clientes.
+
 ---
 
 Feito por [Fernando Tenório](https://github.com/dotenorio) como projeto de portfólio.
