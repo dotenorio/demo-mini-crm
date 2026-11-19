@@ -50,6 +50,7 @@ create table if not exists mini_crm.tarefas (
 );
 
 create index if not exists tarefas_pendentes_idx on mini_crm.tarefas (vence_em) where not concluida;
+create index if not exists tarefas_contato_idx on mini_crm.tarefas (contato_id);
 
 -- Dados pessoais: RLS ligado e NENHUMA policy.
 -- A chave pública (anon) não lê nada; só o servidor, com a service_role, acessa.
